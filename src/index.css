@@ -1,0 +1,18 @@
+/* tailwind css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font */
+@import url("https://fonts.googleapis.com/css2?family=Asset&display=swap");
+.title-font {
+  font-family: "Asset", serif;
+  
+}
+
+* {
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
